@@ -21,7 +21,3 @@ Screenshots:
 <img src="https://raw.githubusercontent.com/KrHo129/Unity-Game-Mobile-The_Wall_Adventure/master/Screenshoots-highRes/LoadingBG.png" alt="example_image"/>
 <img src="https://raw.githubusercontent.com/KrHo129/Unity-Game-Mobile-The_Wall_Adventure/master/Screenshoots-highRes/Corr1.png" alt="example_image"/>
 
-
-
-
-*** Game currently removed from Google Play because of GDPR violations (advertising ...). I will try to reupload new version as soon as possible.
